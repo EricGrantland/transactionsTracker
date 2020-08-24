@@ -7,7 +7,7 @@ public class Main {
 
     public static void main(String[] args) {
 
-        BankAccount account = new BankAccount("My Account", "12345", 500.00);
+        BankAccount account = new BankAccount("My Account", 0.00);
         printOptions();
 
         int choice = 0;

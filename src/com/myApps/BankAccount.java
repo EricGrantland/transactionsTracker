@@ -6,7 +6,6 @@ import java.util.List;
 
 public class BankAccount {
     private String accountName;
-    private String accountNumber;
     private double balance;
     private double startingBalance;
     private List<String> transactions;
